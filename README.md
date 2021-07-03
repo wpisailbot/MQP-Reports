@@ -10,6 +10,7 @@ https://github.com/wpisailbot organization.
 ## 2017
 
 [Sailbot: Autonomous Robotic Sailboat](https://digital.wpi.edu/show/h128ng14d)
+
 [The Robotic Automated Wingsail](https://digital.wpi.edu/show/gh93h101x)
 
 ## 2018
